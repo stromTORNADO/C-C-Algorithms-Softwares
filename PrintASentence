@@ -1,0 +1,7 @@
+#include<stdio.h>
+#include<conio.h>
+main(){
+	clrscr();
+	printf("This is my first program");
+	getch();
+}
